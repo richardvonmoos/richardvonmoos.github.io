@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-started-my-doctorate-at-the-aidos-lab",
-          title: 'I started my doctorate at the AIDOS lab!',
+            },},{id: "news-i-started-my-ph-d-at-the-aidos-lab",
+          title: 'I started my Ph.D. at the AIDOS lab!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
