@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://richardvonmoos.github.io//sitemap.xml
+Sitemap: https://richard.topology.rocks/sitemap.xml
