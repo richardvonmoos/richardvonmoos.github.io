@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my doctorate at the AIDOS lab!
+I started my Ph.D. at the AIDOS lab!
