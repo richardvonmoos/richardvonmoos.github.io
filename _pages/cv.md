@@ -5,9 +5,8 @@ title: cv
 nav: true
 nav_order: 5
 cv_format: jsonresume # options: rendercv, jsonresume
-
-cv_pdf: cv.pdf # you can also use external links here
-description: My CV
+#cv_pdf: cv.pdf # you can also use external links here
+#description: My CV
 toc:
   sidebar: left
 ---
