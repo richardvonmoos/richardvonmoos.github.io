@@ -1,11 +1,9 @@
 {
   "basics": {
     "name": "Richard von Moos",
-    "label": "",
     "image": "",
     "email": "richard.vonmoos@unifr.ch",
     "url": "https://richardvonmoos.github.io/",
-    "phone": "",
     "summary": "I am a Ph.D with the AIDOS lab at the University of Fribourg, doing research at the intersection between machine learning, geometry and topology.",
     "location": {
       "address": "Bd de Pérolles 90",
